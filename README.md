@@ -8,7 +8,7 @@ Following MVC design pattern, create an application using MySQL, Node, Express, 
 
 The Burger website will show the available burgers for consumption. The user can add new burgers to the list. By clicking on the fork/knife icon, the user 'consumes' the burger. The burger is then removed from the menu and added to the 'Devoured' list. Once on the devoured list, the user can no longer select the burger, but can delete the burger by clicking on the trash icon.
 
-Link to app deployed on Heroku: [frozen-tundra-72523](https://frozen-tundra-72523.herokuapp.com/#)
+Link to app deployed on Heroku: [burgerfi](https://burgerfi.herokuapp.com/#)
 
 ## Tools ##
 
